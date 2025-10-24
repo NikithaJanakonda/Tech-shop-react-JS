@@ -75,6 +75,7 @@ import seventyFour from "../images/products/sonyXb400-1.png";
 import sevetyFive from "../images/products/sonyXb400-2.png";
 import seventySix from "../images/products/sonyXb400-3.png";
 import seventySeven from "../images/products/sonyXb400-4.png";       
+import { FaGuitar } from "react-icons/fa";
 const productsData = [
     {
         id: 1,
