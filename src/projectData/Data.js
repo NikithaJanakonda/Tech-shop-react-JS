@@ -315,7 +315,7 @@ const productsData = [
         connectivity: "Wireless",
         finalPrice: 19990,
         originalPrice: 24990,
-        quantity: 1,
+        quantity: 2,
         ratings: 382,
         rateCount: 3,
         path: "/product-details/",
